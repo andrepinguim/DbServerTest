@@ -1,0 +1,4 @@
+{
+  "dotnet-test-explorer.testProjectPath": "./Dbst.Transaction.Tests",
+  "dotnet-test-explorer.useTreeView": false
+}
