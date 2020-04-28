@@ -36,3 +36,12 @@ Se desejar uma experiência melhor para visualização dos testes, use o plugin 
 - Entity Framework Core
 - Sqlite
 - XUnity
+
+---
+
+### Próximos passos:
+
+Implementar Docker compose para:
+
+1. Usar MySql a partir de um container
+2. Dockerizar a aplicação
